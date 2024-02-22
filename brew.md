@@ -1,6 +1,6 @@
 # Brew Installs
 
-## Casks
+## Formulae
 
 ```
 ❯ brew list
