@@ -2,6 +2,7 @@
 
 ## Casks
 
+```
 ❯ brew list
 ==> Formulae
 bat			libgit2			openssl@3
@@ -21,3 +22,4 @@ iperf3			netcat			xz
 iproute2mac		nettle			zsh-autosuggestions
 jansson			nmap			zsh-syntax-highlighting
 libevent		oniguruma
+```
